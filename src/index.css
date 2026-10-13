@@ -1,0 +1,6 @@
+/* Bootstrap administra la tipografía, las columnas y los botones. */
+body {
+  margin: 0;
+  min-width: 320px;
+  background-color: #ffffff;
+}
