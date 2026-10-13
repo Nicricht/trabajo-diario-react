@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" role="img" aria-label="Notebook portátil">
+  <defs>
+    <linearGradient id="screen" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#164e9b"/><stop offset=".55" stop-color="#516edb"/><stop offset="1" stop-color="#70d5cc"/>
+    </linearGradient>
+    <linearGradient id="base" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#d6e0ec"/><stop offset="1" stop-color="#7f91ab"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="600" fill="#f6f8fc"/>
+  <ellipse cx="450" cy="510" rx="325" ry="31" fill="#ced6e4" opacity=".65"/>
+  <rect x="175" y="108" width="550" height="351" rx="21" fill="#233148"/>
+  <rect x="190" y="122" width="520" height="320" rx="8" fill="url(#screen)"/>
+  <path d="M190 374 C320 247 395 399 515 221 S650 220 710 166 V442 H190Z" fill="#ffffff" opacity=".1"/>
+  <circle cx="450" cy="116" r="3.8" fill="#8997ae"/>
+  <path d="M170 454 H730 L808 505 Q812 518 795 522 H105 Q88 518 92 505Z" fill="url(#base)"/>
+  <path d="M179 461 H721 L750 480 H150Z" fill="#66768e"/>
+  <path d="M364 497 H536 L519 508 H381Z" fill="#a9b7c8"/>
+  <path d="M105 519 H795" stroke="#627188" stroke-width="6" stroke-linecap="round"/>
+</svg>

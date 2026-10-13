@@ -2,7 +2,7 @@ import { useParams } from 'react-router-dom'
 import BotonVolver from '../components/atomos/BotonVolver'
 
 const productos = [
-  { id: 1, titulo: 'Notebook', descripcion: 'Notebook ideal para estudiar y trabajar.', precio: 599990, imagen: '/img/notebook.jpg' },
+  { id: 1, titulo: 'Notebook', descripcion: 'Notebook ideal para estudiar y trabajar.', precio: 599990, imagen: '/img/notebook.svg' },
   { id: 2, titulo: 'Mouse', descripcion: 'Mouse inalámbrico.', precio: 19990, imagen: '/img/mouse.jpg' },
   { id: 3, titulo: 'Teclado', descripcion: 'Teclado mecánico.', precio: 39990, imagen: '/img/teclado.jpg' },
   { id: 4, titulo: 'Audífonos', descripcion: 'Audífonos Bluetooth inalámbricos.', precio: 29990, imagen: '/img/audifonos.jpg' },
